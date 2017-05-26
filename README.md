@@ -1,3 +1,5 @@
 # C-Programs
 
-Sample C programs I made - 2010
+Sample C programs I made
+
+- 2010
